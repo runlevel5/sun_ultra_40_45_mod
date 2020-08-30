@@ -123,25 +123,6 @@
          x="-4.9024358"
          y="108.84475"
          style="font-size:3.86085px;fill:#ffffff;stroke-width:0.60801;stroke-miterlimit:4;stroke-dasharray:none">- 12V</tspan></text>
-    <rect
-       transform="scale(-1)"
-       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect302-2-7-11-1-4-8-3-8-3-2"
-       width="13.208735"
-       height="12.509663"
-       x="-23.730879"
-       y="-129.46877" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none"
-       x="10.74764"
-       y="124.78456"
-       id="text1432-03-9-6-8-9-5-7-7"><tspan
-         sodipodi:role="line"
-         id="tspan1430-4-6-9-6-2-8-1-0"
-         x="10.74764"
-         y="124.78456"
-         style="font-size:3.86086px;fill:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none">SENSE</tspan></text>
     <text
        transform="scale(-1)"
        id="text1432-2-5-2"
@@ -238,162 +219,6 @@
          x="-36.159801"
          id="tspan1430-4-6-4-6-8"
          sodipodi:role="line">PG</tspan></text>
-    <path
-       id="rect302-2-9-1-7-9-0-8-4-7"
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 122.24571,129.46877 v -9.78222 l -3.64751,-2.72724 h -5.82773 l -3.73361,2.63487 v 9.87459 z" />
-    <rect
-       transform="scale(-1)"
-       y="-133.02325"
-       x="-125.21722"
-       height="35.345688"
-       width="117.7244"
-       id="rect3429-1"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.530051;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       transform="scale(-1)"
-       y="-113.75341"
-       x="-122.24557"
-       height="12.509663"
-       width="13.208735"
-       id="rect302-2-7-97"
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       id="rect302-2-9-1-7-9-0-8-9-3-4-67"
-       style="fill:#000000;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 23.730901,113.74171 v -9.78222 l -3.647518,-2.72723 h -5.827729 l -3.733606,2.63486 v 9.87459 z" />
-    <text
-       id="text1432-0-8-04-3-0-3-5"
-       y="108.9417"
-       x="12.484832"
-       style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none"
-       xml:space="preserve"><tspan
-         style="font-size:3.86086px;fill:#ffffff;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none"
-         y="108.9417"
-         x="12.484832"
-         id="tspan1430-9-8-0-6-1-7-3"
-         sodipodi:role="line">GND</tspan></text>
-    <path
-       d="m 40.157006,113.74171 v -9.78222 l -3.647516,-2.72723 h -5.827731 l -3.733606,2.63486 v 9.87459 z"
-       style="fill:#ffff00;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect302-2-9-1-7-9-5-5-6" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.160869"
-       x="27.873463"
-       y="108.99636"
-       id="text1432-0-1-1-2"><tspan
-         sodipodi:role="line"
-         id="tspan1430-9-74-6-9"
-         x="27.873463"
-         y="108.99636"
-         style="font-size:3.86086px;stroke-width:0.160869">+12V</tspan></text>
-    <rect
-       transform="scale(-1)"
-       y="-129.46877"
-       x="-40.15712"
-       height="12.509663"
-       width="13.208735"
-       id="rect302-2-7-97-0-3"
-       style="fill:#0000ff;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       id="text1432-9-4-6"
-       y="124.66687"
-       x="28.48489"
-       style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.160869"
-       xml:space="preserve"><tspan
-         style="font-size:3.86086px;fill:#ffffff;stroke-width:0.160869"
-         y="124.66687"
-         x="28.48489"
-         id="tspan1430-932-0-0"
-         sodipodi:role="line">CTRL</tspan></text>
-    <rect
-       transform="scale(-1)"
-       style="fill:#ffff00;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect302-2-7-97-0-2-9"
-       width="13.208735"
-       height="12.509663"
-       x="-73.009491"
-       y="-113.74171" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.160869"
-       x="60.784325"
-       y="108.99448"
-       id="text1432-9-4-61-2"><tspan
-         sodipodi:role="line"
-         id="tspan1430-932-0-8-0"
-         x="60.784325"
-         y="108.99448"
-         style="font-size:3.86086px;stroke-width:0.160869">+12V</tspan></text>
-    <rect
-       transform="scale(-1)"
-       y="-113.74171"
-       x="-56.625751"
-       height="12.509663"
-       width="13.208735"
-       id="rect302-2-7-1-1-52-8-0-7-3"
-       style="fill:#000000;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       id="text1432-2-9-6-3-2-9-7"
-       y="108.93981"
-       x="45.438065"
-       style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none"
-       xml:space="preserve"><tspan
-         style="font-size:3.86086px;fill:#ffffff;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none"
-         y="108.93981"
-         x="45.438065"
-         id="tspan1430-93-6-5-7-2-7-5"
-         sodipodi:role="line">GND</tspan></text>
-    <path
-       id="rect302-2-9-1-7-9-5-2"
-       style="fill:#00ff00;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 43.374398,116.95931 v 9.78222 l 3.64751,2.72724 h 5.82773 l 3.73361,-2.63486 v -9.8746 z" />
-    <text
-       id="text1432-0-1-2"
-       y="124.57961"
-       x="43.602512"
-       style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.160869"
-       xml:space="preserve"><tspan
-         style="font-size:3.86086px;stroke-width:0.160869"
-         y="124.57961"
-         x="43.602512"
-         id="tspan1430-9-74-8"
-         sodipodi:role="line">SENSE</tspan></text>
-    <path
-       id="rect302-2-9-1-7-9-5-7"
-       style="fill:#0000ff;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 73.009368,129.37639 v -9.78222 l -3.64752,-2.72724 h -5.82773 l -3.7336,2.63486 v 9.8746 z" />
-    <text
-       id="text1432-0-1-3"
-       y="124.57637"
-       x="61.278744"
-       style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.160869"
-       xml:space="preserve"><tspan
-         style="font-size:3.86086px;fill:#ffffff;stroke-width:0.160869"
-         y="124.57637"
-         x="61.278744"
-         id="tspan1430-9-74-6"
-         sodipodi:role="line">CTRL</tspan></text>
-    <rect
-       transform="scale(-1)"
-       y="-129.46877"
-       x="-89.435593"
-       height="12.509664"
-       width="13.208735"
-       id="rect302-2-7-11-1-4-8-3-8-3-2-1"
-       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.60801;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       id="text1432-03-9-6-8-9-5-7-7-5"
-       y="124.78455"
-       x="76.452385"
-       style="font-style:normal;font-weight:normal;font-size:3.86085px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.60801;stroke-miterlimit:4;stroke-dasharray:none"
-       xml:space="preserve"><tspan
-         style="font-size:3.86085px;fill:#000000;stroke-width:0.60801;stroke-miterlimit:4;stroke-dasharray:none"
-         y="124.78455"
-         x="76.452385"
-         id="tspan1430-4-6-9-6-2-8-1-0-5"
-         sodipodi:role="line">SENSE</tspan></text>
     <text
        transform="scale(-1)"
        xml:space="preserve"
@@ -430,79 +255,294 @@
          x="-101.86451"
          y="-106.12899"
          style="font-size:3.86085px;fill:#ffffff;stroke-width:0.60801;stroke-miterlimit:4;stroke-dasharray:none">PG</tspan></text>
-    <path
-       d="m 89.435618,113.74171 v -9.78222 L 85.7881,101.23226 h -5.827729 l -3.733606,2.63486 v 9.87459 z"
-       style="fill:#000000;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect302-2-9-1-7-9-0-8-9-3-4-67-7" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none"
-       x="78.189545"
-       y="108.9417"
-       id="text1432-0-8-04-3-0-3-5-4"><tspan
-         sodipodi:role="line"
-         id="tspan1430-9-8-0-6-1-7-3-5"
-         x="78.189545"
-         y="108.9417"
-         style="font-size:3.86086px;fill:#ffffff;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none">GND</tspan></text>
-    <path
-       id="rect302-2-9-1-7-9-5-5-6-5"
-       style="fill:#ffff00;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 105.86173,113.74171 v -9.78222 l -3.64752,-2.72723 h -5.827729 l -3.733606,2.63486 v 9.87459 z" />
-    <text
-       id="text1432-0-1-1-2-4"
-       y="108.99636"
-       x="93.578186"
-       style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.160869"
-       xml:space="preserve"><tspan
-         style="font-size:3.86086px;stroke-width:0.160869"
-         y="108.99636"
-         x="93.578186"
-         id="tspan1430-9-74-6-9-7"
-         sodipodi:role="line">+12V</tspan></text>
-    <rect
-       transform="scale(-1)"
-       style="fill:#0000ff;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect302-2-7-97-0-3-4"
-       width="13.208735"
-       height="12.509663"
-       x="-105.86184"
-       y="-129.46877" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.160869"
-       x="94.189613"
-       y="124.66687"
-       id="text1432-9-4-6-3"><tspan
-         sodipodi:role="line"
-         id="tspan1430-932-0-0-0"
-         x="94.189613"
-         y="124.66687"
-         style="font-size:3.86086px;fill:#ffffff;stroke-width:0.160869">CTRL</tspan></text>
-    <rect
-       transform="scale(-1)"
-       style="fill:none;stroke:#000000;stroke-width:1"
-       id="rect1740"
-       width="29.976341"
-       height="28.225012"
-       x="-40.157131"
-       y="-129.46877" />
-    <rect
-       transform="scale(-1)"
-       y="-129.37639"
-       x="-73.009369"
-       height="28.225012"
-       width="29.976341"
-       id="rect1740-7"
-       style="fill:none;stroke:#000000;stroke-width:1" />
-    <rect
-       transform="scale(-1)"
-       y="-129.46877"
-       x="-105.86184"
-       height="28.225012"
-       width="29.976341"
-       id="rect1740-8"
-       style="fill:none;stroke:#000000;stroke-width:1" />
+    <g
+       id="g3019">
+      <path
+         d="m 122.24571,129.46877 v -9.78222 l -3.64751,-2.72724 h -5.82773 l -3.73361,2.63487 v 9.87459 z"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect302-2-9-1-7-9-0-8-4-7" />
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect302-2-7-97"
+         width="13.208735"
+         height="12.509663"
+         x="-122.24557"
+         y="-113.75341"
+         transform="scale(-1)" />
+      <g
+         id="g2923">
+        <g
+           id="g2854">
+          <rect
+             y="-129.46877"
+             x="-23.730879"
+             height="12.509663"
+             width="13.208735"
+             id="rect302-2-7-11-1-4-8-3-8-3-2"
+             style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             transform="scale(-1)" />
+          <text
+             id="text1432-03-9-6-8-9-5-7-7"
+             y="124.78456"
+             x="10.74764"
+             style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none"
+             xml:space="preserve"><tspan
+               style="font-size:3.86086px;fill:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none"
+               y="124.78456"
+               x="10.74764"
+               id="tspan1430-4-6-9-6-2-8-1-0"
+               sodipodi:role="line">SENSE</tspan></text>
+        </g>
+        <g
+           id="g2849">
+          <path
+             d="m 23.730901,113.74171 v -9.78222 l -3.647518,-2.72723 h -5.827729 l -3.733606,2.63486 v 9.87459 z"
+             style="fill:#000000;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect302-2-9-1-7-9-0-8-9-3-4-67" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none"
+             x="12.484832"
+             y="108.9417"
+             id="text1432-0-8-04-3-0-3-5"><tspan
+               sodipodi:role="line"
+               id="tspan1430-9-8-0-6-1-7-3"
+               x="12.484832"
+               y="108.9417"
+               style="font-size:3.86086px;fill:#ffffff;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none">GND</tspan></text>
+        </g>
+        <g
+           id="g2859">
+          <path
+             id="rect302-2-9-1-7-9-5-5-6"
+             style="fill:#ffff00;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 40.157006,113.74171 v -9.78222 l -3.647516,-2.72723 h -5.827731 l -3.733606,2.63486 v 9.87459 z" />
+          <text
+             id="text1432-0-1-1-2"
+             y="108.99636"
+             x="27.873463"
+             style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.160869"
+             xml:space="preserve"><tspan
+               style="font-size:3.86086px;stroke-width:0.160869"
+               y="108.99636"
+               x="27.873463"
+               id="tspan1430-9-74-6-9"
+               sodipodi:role="line">+12V</tspan></text>
+        </g>
+        <g
+           id="g2864">
+          <rect
+             style="fill:#0000ff;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect302-2-7-97-0-3"
+             width="13.208735"
+             height="12.509663"
+             x="-40.15712"
+             y="-129.46877"
+             transform="scale(-1)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.160869"
+             x="28.48489"
+             y="124.66687"
+             id="text1432-9-4-6"><tspan
+               sodipodi:role="line"
+               id="tspan1430-932-0-0"
+               x="28.48489"
+               y="124.66687"
+               style="font-size:3.86086px;fill:#ffffff;stroke-width:0.160869">CTRL</tspan></text>
+        </g>
+        <rect
+           transform="scale(-1)"
+           style="fill:none;stroke:#000000;stroke-width:1"
+           id="rect1740"
+           width="29.976341"
+           height="28.225012"
+           x="-40.157131"
+           y="-129.46877" />
+      </g>
+      <g
+         id="g2942">
+        <g
+           id="g2879">
+          <rect
+             y="-113.74171"
+             x="-73.009491"
+             height="12.509663"
+             width="13.208735"
+             id="rect302-2-7-97-0-2-9"
+             style="fill:#ffff00;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             transform="scale(-1)" />
+          <text
+             id="text1432-9-4-61-2"
+             y="108.99448"
+             x="60.784325"
+             style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.160869"
+             xml:space="preserve"><tspan
+               style="font-size:3.86086px;stroke-width:0.160869"
+               y="108.99448"
+               x="60.784325"
+               id="tspan1430-932-0-8-0"
+               sodipodi:role="line">+12V</tspan></text>
+        </g>
+        <g
+           id="g2869">
+          <rect
+             style="fill:#000000;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect302-2-7-1-1-52-8-0-7-3"
+             width="13.208735"
+             height="12.509663"
+             x="-56.625751"
+             y="-113.74171"
+             transform="scale(-1)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none"
+             x="45.438065"
+             y="108.93981"
+             id="text1432-2-9-6-3-2-9-7"><tspan
+               sodipodi:role="line"
+               id="tspan1430-93-6-5-7-2-7-5"
+               x="45.438065"
+               y="108.93981"
+               style="font-size:3.86086px;fill:#ffffff;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none">GND</tspan></text>
+        </g>
+        <g
+           id="g2874">
+          <path
+             d="m 43.374398,129.46877 v -9.78222 l 3.64751,-2.72724 h 5.82773 l 3.73361,2.63486 v 9.8746 z"
+             style="fill:#00ff00;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect302-2-9-1-7-9-5-2" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.160869"
+             x="43.602512"
+             y="124.57961"
+             id="text1432-0-1-2"><tspan
+               sodipodi:role="line"
+               id="tspan1430-9-74-8"
+               x="43.602512"
+               y="124.57961"
+               style="font-size:3.86086px;stroke-width:0.160869">SENSE</tspan></text>
+        </g>
+        <g
+           id="g2884">
+          <path
+             d="m 73.009368,129.37639 v -9.78222 l -3.64752,-2.72724 h -5.82773 l -3.7336,2.63486 v 9.8746 z"
+             style="fill:#0000ff;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect302-2-9-1-7-9-5-7" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.160869"
+             x="61.278744"
+             y="124.57637"
+             id="text1432-0-1-3"><tspan
+               sodipodi:role="line"
+               id="tspan1430-9-74-6"
+               x="61.278744"
+               y="124.57637"
+               style="font-size:3.86086px;fill:#ffffff;stroke-width:0.160869">CTRL</tspan></text>
+        </g>
+        <rect
+           transform="scale(-1)"
+           y="-129.37639"
+           x="-73.009369"
+           height="28.225012"
+           width="29.976341"
+           id="rect1740-7"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+      </g>
+      <g
+         id="g2961">
+        <g
+           id="g2894">
+          <rect
+             style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.60801;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect302-2-7-11-1-4-8-3-8-3-2-1"
+             width="13.208735"
+             height="12.509664"
+             x="-89.435593"
+             y="-129.46877"
+             transform="scale(-1)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:3.86085px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.60801;stroke-miterlimit:4;stroke-dasharray:none"
+             x="76.452385"
+             y="124.78455"
+             id="text1432-03-9-6-8-9-5-7-7-5"><tspan
+               sodipodi:role="line"
+               id="tspan1430-4-6-9-6-2-8-1-0-5"
+               x="76.452385"
+               y="124.78455"
+               style="font-size:3.86085px;fill:#000000;stroke-width:0.60801;stroke-miterlimit:4;stroke-dasharray:none">SENSE</tspan></text>
+        </g>
+        <g
+           id="g2889">
+          <path
+             id="rect302-2-9-1-7-9-0-8-9-3-4-67-7"
+             style="fill:#000000;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 89.435618,113.74171 v -9.78222 L 85.7881,101.23226 h -5.827729 l -3.733606,2.63486 v 9.87459 z" />
+          <text
+             id="text1432-0-8-04-3-0-3-5-4"
+             y="108.9417"
+             x="78.189545"
+             style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none"
+             xml:space="preserve"><tspan
+               style="font-size:3.86086px;fill:#ffffff;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none"
+               y="108.9417"
+               x="78.189545"
+               id="tspan1430-9-8-0-6-1-7-3-5"
+               sodipodi:role="line">GND</tspan></text>
+        </g>
+        <g
+           id="g2899">
+          <path
+             d="m 105.86173,113.74171 v -9.78222 l -3.64752,-2.72723 h -5.827729 l -3.733606,2.63486 v 9.87459 z"
+             style="fill:#ffff00;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect302-2-9-1-7-9-5-5-6-5" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.160869"
+             x="93.578186"
+             y="108.99636"
+             id="text1432-0-1-1-2-4"><tspan
+               sodipodi:role="line"
+               id="tspan1430-9-74-6-9-7"
+               x="93.578186"
+               y="108.99636"
+               style="font-size:3.86086px;stroke-width:0.160869">+12V</tspan></text>
+        </g>
+        <g
+           id="g2904">
+          <rect
+             y="-129.46877"
+             x="-105.86184"
+             height="12.509663"
+             width="13.208735"
+             id="rect302-2-7-97-0-3-4"
+             style="fill:#0000ff;stroke:#000000;stroke-width:0.608009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             transform="scale(-1)" />
+          <text
+             id="text1432-9-4-6-3"
+             y="124.66687"
+             x="94.189613"
+             style="font-style:normal;font-weight:normal;font-size:3.86086px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.160869"
+             xml:space="preserve"><tspan
+               style="font-size:3.86086px;fill:#ffffff;stroke-width:0.160869"
+               y="124.66687"
+               x="94.189613"
+               id="tspan1430-932-0-0-0"
+               sodipodi:role="line">CTRL</tspan></text>
+        </g>
+        <rect
+           transform="scale(-1)"
+           y="-129.46877"
+           x="-105.86184"
+           height="28.225012"
+           width="29.976341"
+           id="rect1740-8"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+      </g>
+    </g>
     <text
        transform="translate(-57.597688,-34.266536)"
        xml:space="preserve"
@@ -654,5 +694,16 @@
        id="path2839"
        d="m 105.86184,101.24375 c 2.37086,-0.8759 4.87318,-1.360135 7.33557,-1.944576 4.81961,-1.143921 9.56933,-2.519283 14.10215,-4.416856 1.92029,-0.803892 4.15147,-0.795488 6.12818,-1.465183 2.02142,-0.684842 4.14424,-1.272352 5.86216,-2.126589 0.3018,-0.150071 0.83367,0.09468 1.1588,0 1.10546,-0.321929 0.11059,-0.284482 0.74512,-0.284482 0.1519,0 0.34912,0.108233 0.4557,0 0.0532,-0.05402 0.0651,-0.266245 0,-0.227434 -0.87179,0.519576 -1.67332,1.148887 -2.50997,1.723332"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       id="g2844">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.530051;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3429-1"
+         width="117.7244"
+         height="35.345688"
+         x="-125.21722"
+         y="-133.02325"
+         transform="scale(-1)" />
+    </g>
   </g>
 </svg>
