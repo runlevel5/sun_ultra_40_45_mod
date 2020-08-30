@@ -17,6 +17,12 @@
   <defs
      id="defs326">
     <rect
+       id="rect3023"
+       height="11.919611"
+       width="121.73352"
+       y="1.5552067"
+       x="2.0478616" />
+    <rect
        x="25.358553"
        y="213.11208"
        width="154.47645"
@@ -705,5 +711,11 @@
          y="-133.02325"
          transform="scale(-1)" />
     </g>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3023);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text3021"
+       xml:space="preserve"><tspan
+         x="2.0488281"
+         y="10.918427"><tspan>SunPN: 371-0703-01</tspan></tspan></text>
   </g>
 </svg>
